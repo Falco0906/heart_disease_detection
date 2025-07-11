@@ -35,7 +35,7 @@ source venv/bin/activate
 pip install -r requirements.txt
 
 # Run the script
-python heart_disease_detect_final.py
+python heart_disease_detection.py
 
 ```
 
