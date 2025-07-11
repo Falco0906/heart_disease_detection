@@ -55,3 +55,16 @@ Type `exit` to quit the prediction loop.
 - Built using Python and scikit-learn
 
 ---
+
+## 📷 Visual Results
+
+### ROC Curve (Model Comparison)
+![ROC Curve](roc_curve.png)
+
+### Correlation Heatmap
+![Correlation Heatmap](correlation_heatmap.png)
+
+### Target Class Distribution
+![Target Distribution](target_distribution.png)
+
+---
