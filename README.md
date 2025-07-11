@@ -20,7 +20,7 @@ This project predicts the presence of heart disease using patient health data an
 # 🧪 How to Use (Clone and Run)
 ```bash
 # Clone the repo
-git clone https://github.com/YOUR_USERNAME/heart_disease_detection.git
+git clone https://github.com/Falco0906/heart_disease_detection.git
 cd heart_disease_detection
 
 # (Optional) Create a virtual environment
