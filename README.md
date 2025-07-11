@@ -17,16 +17,26 @@ This project predicts the presence of heart disease using patient health data an
 - Doesn't retrain if model already exists (loads from file)
 - ROC Curve plotted and saved as `roc_curve.png`
 
-## 🧪 How to Use
-
-1. **Install requirements**  
+# 🧪 How to Use (Clone and Run)
 ```bash
+# Clone the repo
+git clone https://github.com/YOUR_USERNAME/heart_disease_detection.git
+cd heart_disease_detection
+
+# (Optional) Create a virtual environment
+python -m venv venv
+# Activate it
+# Windows:
+venv\Scripts\activate
+# macOS/Linux:
+source venv/bin/activate
+
+# Install dependencies
 pip install -r requirements.txt
-```
 
-2. **Run the script**  
-```bash
-python heart_disease_detection.py
+# Run the script
+python heart_disease_detect_final.py
+
 ```
 
 3. **Make predictions**  
