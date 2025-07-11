@@ -26,7 +26,7 @@ pip install -r requirements.txt
 
 2. **Run the script**  
 ```bash
-python heart_disease_detect_final.py
+python heart_disease_detection.py
 ```
 
 3. **Make predictions**  
